@@ -1,0 +1,1 @@
+Find the ip-cam stream repository for the inside shark RPI5 in the ``linuskang/mjpg-streamer`` repository, or [here](https://github.com/linuskang/mjpg-streamer)
