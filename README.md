@@ -1,3 +1,7 @@
+# 2025 APOC Internationals Round Innovation Project code
+
+This repository is all of our source code to make an AI operated robotic shark.
+
 
 ![Banner](doc/images/hailo_rpi_examples_banner.png)
 
